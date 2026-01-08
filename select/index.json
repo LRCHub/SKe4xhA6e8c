@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "桜が降る夜は",
+  "base_artist": "aimyon",
+  "createdAt": "2026-01-08T15:48:14.814319Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "桜が降る夜は",
+      "artist": "Aimyon",
+      "has_synced": true,
+      "path": "select/01_桜が降る夜は_Aimyon.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "桜が降る夜は - On a Cherry Blossom Night",
+      "artist": "aimyon",
+      "has_synced": true,
+      "path": "select/02_桜が降る夜は_-_On_a_Cherry_Blossom_Night_aimyon.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "桜が降る夜は",
+      "artist": "Aimyon",
+      "has_synced": false,
+      "path": "select/03_桜が降る夜は_Aimyon.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "桜が降る夜は",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_01_桜が降る夜は_あいみょん.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "桜が降る夜は",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_02_桜が降る夜は_あいみょん.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "桜が降る夜は",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_03_桜が降る夜は_あいみょん.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "桜が降る夜は",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_04_桜が降る夜は_あいみょん.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "桜が降る夜は",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_05_桜が降る夜は_あいみょん.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "桜が降る夜は",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_06_桜が降る夜は_あいみょん.txt"
+    }
+  ]
+}
